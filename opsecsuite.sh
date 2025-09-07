@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ============================================================================
 # OPSEC Recon Suite — Installer
-# Repo: https://github.com/<your-user>/opsec-recon-suite (replace before publish)
+# Repo: https://github.com/HectorTTL/opsecsuite/
 # Purpose: Install a lean, reproducible recon toolkit on Ubuntu/Debian family.
 # Usage:
 #   bash scripts/opsecsuite.sh
