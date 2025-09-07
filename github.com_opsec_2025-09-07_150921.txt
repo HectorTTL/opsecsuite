@@ -890,4 +890,4 @@ Service detection performed. Please report any incorrect results at https://nmap
 ### Skipped UDP scan (run with sudo to include it)
 ----------------------------------------------------------------
 ### Finished: 2025-09-07T16:41:44+02:00
-### Report saved: /home/gf/Downloads/github.com_opsec_2025-09-07_150921.txt
+### Report saved: ~/Downloads/github.com_opsec_2025-09-07_150921.txt
