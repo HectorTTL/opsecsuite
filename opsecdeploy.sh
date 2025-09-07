@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ============================================================================
 # OPSEC Recon Suite — Deploy
-# Repo: https://github.com/<your-user>/opsec-recon-suite (replace before publish)
+# Repo: https://github.com/HectorTTL/opsecsuite/
 # Purpose: Run a fast, end-to-end OPSEC recon against a domain & save a txt report.
 # Usage:
 #   bash scripts/opsecdeploy.sh <domain-or-url>
